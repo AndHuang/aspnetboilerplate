@@ -66,13 +66,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <None Include="packages.config" />
-    <None Include="RedisCache\RedisCacheClassDiagram.cd" />
-  </ItemGroup>
-  <ItemGroup>
-=======
->>>>>>> refs/remotes/aspnetboilerplate/master
     <None Include="Abp.RedisCache.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
